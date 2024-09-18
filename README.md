@@ -33,7 +33,7 @@
   </a>
 </div>
 
-### :woman_technologist: About Me :
+### 💻 : About Me :
 - I am a passionate and versatile Software Engineer, Graphic Designer, and WordPress Expert with a strong background in full-stack development. My journey in technology has been fueled by a love for creating dynamic, user-friendly applications and a keen interest in the DevOps and security aspects of software engineering. 
 - With extensive experience in both front-end and back-end technologies, I enjoy bringing creative ideas to life through code. My full-stack expertise allows me to seamlessly integrate user interfaces with powerful server-side logic, ensuring optimal performance and scalability. 
 - As a Graphic Designer, I have an eye for aesthetics and user experience, which helps me design intuitive and visually appealing interfaces. My WordPress skills enable me to create custom themes and plugins, delivering tailored solutions that meet unique client needs.
