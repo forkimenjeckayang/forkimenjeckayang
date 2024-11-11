@@ -3,36 +3,6 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3N1ajA0cXI4bmJkZHc5aW5iYWQyMmJncHV4OHR4dTZldzNoajdnYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Q8xuJjjxQHHJdHn7gJ/giphy.gif" width="100"/>
 </div>
 
-<div id="badges">
-  <a href="your-linkedin-URL" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-facebook-URL" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
-  <a href="your-github-U" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
-  <a href="your-telegram-URL" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-  <a href="your-x-URL" target="_blank">
-    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
-  </a>
-  <a href="your-discord-URL" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
-  </a>
-  <a href="your-slack-URL" target="_blank">
-    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack Badge"/>
-  </a>
-  <a href="your-upwork-URL" target="_blank">
-    <img src="https://img.shields.io/badge/Upwork-green?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork Badge"/>
-  </a>
-  <a href="your-instagram-URL" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-</div>
-
 ### 💻 : About Me :
 - I am a passionate and versatile Software Engineer, Graphic Designer, and WordPress Expert with a strong background in full-stack development. My journey in technology has been fueled by a love for creating dynamic, user-friendly applications and a keen interest in the DevOps and security aspects of software engineering. 
 - With extensive experience in both front-end and back-end technologies, I enjoy bringing creative ideas to life through code. My full-stack expertise allows me to seamlessly integrate user interfaces with powerful server-side logic, ensuring optimal performance and scalability. 
