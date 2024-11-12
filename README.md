@@ -45,10 +45,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
 </div>
-
-### :fire: My Stats :
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=forkimenjeckayang)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **forkimenjeckayang/forkimenjeckayang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
